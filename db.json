@@ -1,0 +1,95 @@
+{
+    "user": [
+        {
+            "title": "APPLE",
+            "img": "./images/APPLE.webp",
+            "price": "500",
+            "date": "18 10 2022"
+        },
+        {
+            "title": "ASER",
+            "img": "./images/ASER.jpg",
+            "price": "550",
+            "date": "19 10 2022"
+        },
+
+        {
+            "title": "ASUS",
+            "img": "./images/ASUS.jfif",
+            "price": "600",
+            "date": "20 10 2022"
+        },
+
+        {
+            "title": "COMPAO",
+            "img": "./images/COMPAO.jfif",
+            "price": "650",
+            "date": "21 10 2022"
+        },
+
+        {
+            "title": "DELL",
+            "img": "./images/DELL.jpg",
+            "price": "700",
+            "date": "22 10 2022"
+        },
+
+        {
+            "title": "FUJITUS",
+            "img": "./images/FUJITUS.jfif",
+            "price": "750",
+            "date": "23 10 2022"
+        },
+
+        {
+            "title": "GATEWAY",
+            "img": "./images/GATEWAY.jpg",
+            "price": "800",
+            "date": "24 10 2022"
+        },
+
+        {
+            "title": "HP",
+            "img": "./images/HP.jfif",
+            "price": "850",
+            "date": "25 10 2022"
+        },
+
+        {
+            "title": "LENOVO",
+            "img": "./images/LENOVO.jpeg",
+            "price": "900",
+            "date": "26 10 2022"
+        },
+
+        {
+            "title": "SAMSUNG",
+            "img": "./images/SAMSUNG.jpg",
+            "price": "950",
+            "date": "27 10 2022"
+        },
+
+        {
+            "title": "SONY",
+            "img": "./images/SONY.jpg",
+            "price": "1000",
+            "date": "28 10 2022"
+        },
+
+        {
+            "title": "TOSHIBA",
+            "img": "./images/TOSHIBA.jpg",
+            "price": "1050",
+            "date": "29 10 2022"
+        },
+
+        {
+            "title": "MAC",
+            "img": "./images/MAC.jpg",
+            "price": "1100",
+            "date": "30 10 2022"
+        }
+
+
+    ]
+}
